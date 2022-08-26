@@ -1,0 +1,7 @@
+{
+  "domain": "magichuecloud",
+  "name": "Magic Hue Cloud",
+  "requirements": ["python-magichue==0.3.2"],
+  "iot_class": "assumed_state",
+  "version": "0.1"
+}

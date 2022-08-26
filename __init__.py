@@ -1,0 +1,1 @@
+""" the magichue cloud component """
