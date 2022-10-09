@@ -1,7 +1,7 @@
 To install the integration, put the root directory of this repository in the following directory of your home assistant:
 
 ```
-config/custom-components/magichuecloud
+config/custom_components/magichuecloud
 ```
 
 Configuration example:
